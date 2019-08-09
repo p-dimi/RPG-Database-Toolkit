@@ -1,0 +1,53 @@
+,{
+    "BROO": {
+        "STATS": {
+            "STR": "2D6+6",
+            "CON": "1D6+12",
+            "SIZ": "2D6+6",
+            "INT": "2D6+6",
+            "POW": "3D6",
+            "DEX": "3D6",
+            "CHA": "2D6",
+            "MOVE": "9",
+            "RUNE POINTS": "1D3",
+            "BASE SR": "5"
+        },
+        "SKILLS": {
+            "COMBAT SKILLS": {
+                "Club": "40%",
+                "Spear": "35%",
+                "Head butt": "50%",
+                "Medium shield": "30%",
+				"Dodge": "35%"
+            },
+            "NON COMBAT SKILLS": {
+                "Climb": "40%",
+                "Conceal": "25%",
+                "Hide": "40%",
+                "Intimidate": "35%",
+                "Jump": "45%",
+                "Listen": "50%",
+                "Move quietly": "50%",
+                "Track": "50%"
+            }
+        },
+        "LANGUAGES": {
+            "Speak local human tongue": "25%",
+            "Speak Tradetalk": "25%"
+        },
+        "PASSIONS": {
+            "Hate life": "60%"
+        },
+        "RUNES": {
+            "Beast": "60%",
+            "Chaos": "60%"
+        },
+        "SPELLS": {
+            "SPIRIT SPELLS": [],
+            "RUNE SPELLS": [],
+            "SORCERY SPELLS": []
+        },
+        "SPECIAL SKILLS": [],
+        "CHAOS": "YES"
+    }
+}
